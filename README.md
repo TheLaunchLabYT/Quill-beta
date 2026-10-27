@@ -5,8 +5,9 @@ Quill is a personal planner for your week: tasks, study, training and the commit
 
 ## Download
 Current beta: **v2.5.0-beta6** (Android)
-- Download `quill-2.5.0-beta6-public-beta.apk` from the Releases page.
+- Download the apk from the release page. 
 - SHA-256: `19660d9fa2551aab0abf08000c74a2e29555cefe5de66b91e6a190ff3bdd1ec8`
+- **This is still beta, use at your own risk**
 
 To install, open the file on your Android phone and allow installs from your browser when asked.
 
