@@ -19,4 +19,4 @@ To install, open the file on your Android phone and allow installs from your bro
 Subscriptions and paid plans are not part of this beta.
 
 ## Feedback
-[your contact or issues link]
+We haven't made an email yet or a way to contact me, but you can leave a comment or smth
